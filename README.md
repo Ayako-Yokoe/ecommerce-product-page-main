@@ -4,26 +4,26 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 ## Table of contents
 
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
-    -   [Useful resources](#useful-resources)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
 ### The challenge
 
 Users should be able to:
 
--   View the optimal layout for the site depending on their device's screen size
--   See hover states for all interactive elements on the page
--   Open a lightbox gallery by clicking on the large product image
--   Switch the large product image by clicking on the small thumbnail images
--   Add items to the cart
--   View the cart and remove items from it
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Open a lightbox gallery by clicking on the large product image
+- Switch the large product image by clicking on the small thumbnail images
+- Add items to the cart
+- View the cart and remove items from it
 
 ### Screenshot
 
@@ -34,20 +34,20 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ayako-Yokoe/ecommerce-product-page-main)
+- Live Site URL: [Vercel](https://ecommerce-product-page-one-lyart.vercel.app/)
 
 ## My process
 
 ### Built with
 
--   Semantic HTML5 markup
--   CSS custom properties
--   Flexbox
--   CSS Grid
--   Mobile-first workflow
--   [React](https://reactjs.org/) - JS library
--   TailwindCSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- TailwindCSS
 
 ### What I learned
 
@@ -79,6 +79,7 @@ I'll continue coding using libraries such as React, TailwindCSS, Next.js, and Ty
 
 ### Useful resources
 
--   [Reddit](https://www.reddit.com/r/tailwindcss/comments/1ihjqef/padding_classes_not_working_in_tailwind_v4_in_my/?rdt=59123) – This helped me set up TailwindCSS and layers.
--   [CSS Masks](https://webkit.org/blog/181/css-masks/?utm_source=chatgpt.com) - This resource helped me write the code for changing SVG colors.
+- [Reddit](https://www.reddit.com/r/tailwindcss/comments/1ihjqef/padding_classes_not_working_in_tailwind_v4_in_my/?rdt=59123) – This helped me set up TailwindCSS and layers.
+- [CSS Masks](https://webkit.org/blog/181/css-masks/?utm_source=chatgpt.com) - This resource helped me write the code for changing SVG colors.
+
 # ecommerce-product-page-main
