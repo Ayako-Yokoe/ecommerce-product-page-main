@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-orange: hsl(26, 100%, 55%);
+  --color-pale-orange: hsl(25, 100%, 94%);
+  --color-very-dark-blue: hsl(220, 13%, 13%);
+  --color-dark-grayish-blue: hsl(219, 9%, 45%);
+  --color-grayish-blue: hsl(220, 14%, 75%);
+  --color-light-grayish-blue: hsl(223, 64%, 98%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 0%);
+
+  --font-kumbh: "Kumbh", sans-serif;
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: var(--font-kumbh);
+  }
+}
+
+/* reddit
+https://www.reddit.com/r/tailwindcss/comments/1ihjqef/padding_classes_not_working_in_tailwind_v4_in_my/ */
+
+.icon-cart {
+  filter: brightness(0) saturate(100%) contrast(100%);
+}
